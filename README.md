@@ -22,6 +22,7 @@ This project is buit using Robot Framework using Selenium Java Library and Maven
 - Once the Test is completed, please check the reports in target folder
 - If this test needs to be executed in Safari then please navigate to src/test/resources, edit - CommonVariable.robot, change the value for ${Browser} from Chrome to Safari( with tab space in between)
 - Navigate back to root folder and run the command- mvn robotframework:run
+- Robot Command file can be used if Robot is installed in Local Repo
 
 Happy Testing...!!!!
 
